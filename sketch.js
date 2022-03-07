@@ -145,7 +145,7 @@ if(score === 54){
   textSize(26);
   fill("green")
   text("VICTORY",800,350);
-  victory.play();
+ 
 }
 
 function mouseDragged(){
